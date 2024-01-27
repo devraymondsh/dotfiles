@@ -1,0 +1,7 @@
+[user]
+	email = devraymondsh@gmail.com
+	name = Mahdi Sharifi
+[credential]
+	helper = store
+[merge]
+	commit = no
